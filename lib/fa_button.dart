@@ -60,7 +60,7 @@ class _FAButtonState extends State<FAButton> {
         color = const Color(0xff4267B2);
         break;
     // ignore: todo
-      default: //TODO Implement error screen
+      default: //TODO #1 Implement error screen
         text = "Se connecter anonymement";
         icon = const Icon(
           FontAwesomeIcons.userSecret,
